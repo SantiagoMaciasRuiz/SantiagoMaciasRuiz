@@ -1,6 +1,9 @@
 ### Hi im Santiago Macias 👋
 
-#💻 Programming | 🖤 Videogames | 🎧 music
+💻 Programming | 🖤 Videogames | 🎧 music
+
+
+
 ![SantiagoMaciasRuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoMaciasRuiz&theme=dark&show_icons=true)
 <!--
 **SantiagoMaciasRuiz/SantiagoMaciasRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
