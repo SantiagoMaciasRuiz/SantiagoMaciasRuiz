@@ -2,7 +2,7 @@
 
 💻 Programming | 🖤 Videogames | 🎧 music
 
-https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif
+![https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif]
 
 
 ![SantiagoMaciasRuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoMaciasRuiz&theme=dark&show_icons=true)
