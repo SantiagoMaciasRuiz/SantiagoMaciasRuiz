@@ -12,7 +12,7 @@
 
 🔭 I am currently in the last semesters of my studies at the National University of Colombia
 
-🌱 I’m currently learning Python,SQL and PostgreSQL
+🌱 I’m currently learning Python,JAVA,SQL and PostgreSQL
 
 🎿 Hobbies other than coding : Playing video games, Watch movies, listen music 🤔🤖..
 
