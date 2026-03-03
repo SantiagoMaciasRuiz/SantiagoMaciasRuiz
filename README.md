@@ -1,69 +1,76 @@
 <h1 align="center">Hi, I'm Santiago Macias 👋</h1>
 
 <p align="center">
-💻 Programming | 🖤 Videogames | 🎧 Music
+💻 Systems Engineering Student | 📊 Data & Backend Enthusiast | 🎮 Gamer
 </p>
 
 <p align="center">
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="200"/>
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="170"/>
 </p>
 
 ---
 
-## 🧠 About me
+## 🧠 About Me
 
-🗒️ Systems Engineering student (last semesters)  
-🎓 National University of Colombia  
+🎓 Systems Engineering student (final semesters)  
+🏫 National University of Colombia  
 🌎 Medellín, Colombia  
-🔭 Currently learning: **Python, Java, SQL, PostgreSQL**  
-🎮 Gamer by heart  
-🎬 Movies + 🎧 Music enjoyer  
+📊 Focused on Data Analysis, Automation & Backend Development  
+🚀 Strengthening: Python, Java, SQL & PostgreSQL  
+
+I enjoy building structured systems, automating workflows and turning data into decisions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,postgresql,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
+
+## 🧠 Main Languages
+
+![Python](https://img.shields.io/badge/Python-Primary-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Secondary-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Database-green?style=for-the-badge)
+
+### 🔥 Contribution Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SantiagoMaciasRuiz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 📊 Data pipelines with Python  
+- 🗄️ SQL optimization & database modeling  
+- 📈 Automated reporting systems  
+- 🧠 Risk & territorial analytics  
+
+---
+
+## 🎯 2026 Goals
+
+- Strengthen backend architecture  
+- Build scalable data-driven applications  
+- Contribute to open source  
+- Start professional career in Data / Software Engineering  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SantiagoMaciasRuiz&theme=tokyonight&show_icons=true&count_private=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMaciasRuiz&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&langs_count=6&cache_seconds=1800" height="170"/>
-</p>
+<a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## 🚀 What I'm working on
-
-- 📊 Data analysis with Python  
-- 🗄️ Database modeling and SQL optimization  
-- 🧪 Risk management analytics (GRD projects)  
-- 📈 Automation of reports and dashboards  
-
----
-
-## 🎯 Goals for 2026
-
-- Master backend development  
-- Build data-driven applications  
-- Contribute to open source  
-- Get my first role in data/engineering 🚀  
-
----
-
-## 🤝 Connect with me
-
-<p>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:tuemail@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
