@@ -78,5 +78,5 @@ I am a Systems Engineering student at the **National University of Colombia**, s
 
 I am actively looking to contribute to open-source initiatives and seeking professional opportunities in **Data Engineering, Business Intelligence, or Software/Backend Engineering**.
 
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](www.linkedin.com/in/santiago-macias-ruiz)
+* **LinkedIn:** [PERFIL](www.linkedin.com/in/santiago-macias-ruiz)
 * **Institutional Email:** [smaciasr@unal.edu.co](mailto:smaciasr@unal.edu.co)
