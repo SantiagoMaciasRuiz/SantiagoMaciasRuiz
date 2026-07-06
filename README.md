@@ -47,11 +47,11 @@ I am a Systems Engineering student at the **National University of Colombia**, s
 
 ## 📂 Featured Projects & Architecture
 
-### 📊 [Risk & Territorial Analytics Infrastructure](https://github.com/SatYu26)
+### 📊 [Risk & Territorial Analytics Infrastructure]
 * **Core Stack:** `Python` | `PostgreSQL` | `Power BI` | `Shell Scripting`
 * **Architecture & Impact:** Architected an end-to-end data pipeline that ingests, cleans, and structures complex territorial and risk indicators. Built an automated workflow to eliminate manual overhead, delivering production-ready dashboards with robust DAX modeling for real-time decision-making.
 
-### ⚙️ [Automated Data Ingestion & ETL Pipelines](https://github.com/SatYu26)
+### ⚙️ [Automated Data Ingestion & ETL Pipelines]
 * **Core Stack:** `Python` | `SQL` | `Linux Automation`
 * **Architecture & Impact:** Developed a modular framework designed to extract, transform, and load data from heterogeneous and messy sources into structured relational databases. Focused heavily on error handling, logging, and query execution efficiency.
 
