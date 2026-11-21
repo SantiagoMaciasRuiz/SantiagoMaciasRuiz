@@ -1,8 +1,8 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0D14,100:FF6B00&amp;height=220&amp;section=header&amp;text=Santiago%20Macias&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Data%20Engineer%20%7C%20Backend%20Developer&amp;descSize=18&amp;descAlignY=58&amp;fontColor=FFE600&amp;descColor=94A3B8&amp;animation=twinkling" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFF7ED,100:EA580C&amp;height=220&amp;section=header&amp;text=Santiago%20Macias&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Data%20Engineer%20%7C%20Backend%20Developer&amp;descSize=18&amp;descAlignY=58&amp;fontColor=EA580C&amp;descColor=475569&amp;animation=twinkling" />
-  <img width="100%" alt="Santiago Macias — Data Engineer and Backend Developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0D14,100:FF6B00&amp;height=220&amp;section=header&amp;text=Santiago%20Macias&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Data%20Engineer%20%7C%20Backend%20Developer&amp;descSize=18&amp;descAlignY=58&amp;fontColor=FFE600&amp;descColor=94A3B8&amp;animation=twinkling" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiagoMaciasRuiz/SantiagoMaciasRuiz/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiagoMaciasRuiz/SantiagoMaciasRuiz/main/light.svg" />
+  <img alt="Santiago Macias — profile.sh --live" src="https://raw.githubusercontent.com/SantiagoMaciasRuiz/SantiagoMaciasRuiz/main/dark.svg" />
 </picture>
 
 <!-- ===== GITHUB STATS & STREAK ===== -->
